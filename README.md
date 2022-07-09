@@ -24,7 +24,7 @@ API /books:
 
 API /import:
 
-Import odbywa się przez komunikację z zewnętrznym API Google Books - https://www.googleapis.com/books/v1/volumes\
+Import odbywa się przez komunikację z zewnętrznym API Google Books - https://www.googleapis.com/books/v1/volumes
 
 **POST** /import - w body requestu powinien się znaleźć filter po którym szukamy - {"author": "nazwisko"}
 
